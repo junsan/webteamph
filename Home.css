@@ -613,16 +613,11 @@
   margin: 20px 0 0;
 }
 
-.u-section-3 .u-btn-1 {
-  border-style: solid;
-  padding: 0;
-}
-
 .u-section-3 .u-text-3 {
   margin: 30px 0 0;
 }
 
-.u-section-3 .u-btn-2 {
+.u-section-3 .u-btn-1 {
   font-size: 1.125rem;
   font-weight: 700;
   background-image: none;
@@ -956,7 +951,7 @@
 .u-section-4 .u-image-4 {
   width: 133px;
   height: 133px;
-  background-image: url("images/3105ae2c4a83bac3c91ba06a81327ecded374a026a1879407970cf602e31e5d29ef678b00bc70ca9fcf55ff6bec5cfa3a83e23ec0104b1a7c361fd_1280.png");
+  background-image: url("images/2f140cbaca9e62a511b237020226cae15b43898423c0ca1c582edea6a12cab1ed1e4e996cce6d785ab792d9416b7b090782aac279c876c2c611fe6_1280.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
